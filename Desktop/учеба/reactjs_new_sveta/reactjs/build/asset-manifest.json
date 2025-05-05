@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a545d6f3.css",
+    "main.js": "/static/js/main.5f4c967d.js",
+    "static/media/image.png": "/static/media/image.099d92222df5ec9a3b24.png",
+    "static/media/image_1.png": "/static/media/image_1.a59565817d421a42107f.png",
+    "static/media/photo_5.jpg": "/static/media/photo_5.e78e93f64aaf6545210e.jpg",
+    "static/media/photo_6.jpg": "/static/media/photo_6.d59ca0162c106e0d7068.jpg",
+    "static/media/victory.jpg": "/static/media/victory.32693555e22236dcb121.jpg",
+    "static/media/IMG_3111.jpg": "/static/media/IMG_3111.095cc0555feae831fd3e.jpg",
+    "static/media/photo_3.jpg": "/static/media/photo_3.1d2bedbc9fc7641a740f.jpg",
+    "static/media/photo_4.jpg": "/static/media/photo_4.bd2cc2f7a7b140343373.jpg",
+    "static/media/File.png": "/static/media/File.a994015ae52f0933f625.png",
+    "static/media/photo_2.jpg": "/static/media/photo_2.fdd147e731752631d38d.jpg",
+    "static/media/sovet.jpg": "/static/media/sovet.b2511da6eb9ec63423d9.jpg",
+    "static/media/photo.jpg": "/static/media/photo.35bc0c6735cd81d09793.jpg",
+    "static/media/logo.png": "/static/media/logo.b91293def245569bdc7a.png",
+    "index.html": "/index.html",
+    "main.a545d6f3.css.map": "/static/css/main.a545d6f3.css.map",
+    "main.5f4c967d.js.map": "/static/js/main.5f4c967d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a545d6f3.css",
+    "static/js/main.5f4c967d.js"
+  ]
+}
